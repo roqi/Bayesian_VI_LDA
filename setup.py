@@ -21,7 +21,7 @@ setup(
     long_description=long_description,
 
     # The project's main homepage.
-    url='https://github.com/arongdari/python-topic-model/',
+    url='https://github.com/roqi/Bayesian_VI_LDA/',
 
     # Author details
     author='Dongwoo Kim',
